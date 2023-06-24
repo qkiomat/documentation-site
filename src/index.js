@@ -5,7 +5,7 @@ import Header from './pages/header/Header';
 import Main from './pages/main/Main';
 import Footer from './pages/footer/Footer';
 import Slidebar from './pages/sidebar/Slidebar';
-
+import './global.css';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
